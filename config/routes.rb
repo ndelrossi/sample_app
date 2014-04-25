@@ -25,8 +25,8 @@ SampleApp::Application.routes.draw do
   #   resources :products
 
   # Example resource route with options:
-  #   resources :products do
-  #     member do
+  #   resources :products do.
+  
   #       get 'short'
   #       post 'toggle'
   #     end
